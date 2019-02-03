@@ -1,0 +1,11 @@
+.answer {
+	color: red;
+	background-color: yellow;
+	text-align: center;
+	width :300px;
+}
+#myDiv {
+	background-color: green;
+	display: none;
+}
+
